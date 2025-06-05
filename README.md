@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amankaushik3919
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Linux and doing HTB Academy course
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and Artificial intelligence
+- 🌱 I’m currently learning about Machine Learning Fundamentals
+<!-- 💞️ I’m looking to collaborate on --->
 - 📫 Reach me on my mail amankaushik3919@gmail.com
 
 <!---
